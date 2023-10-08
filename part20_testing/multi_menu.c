@@ -56,7 +56,7 @@ void program2() {
 
         switch (subChoice) {
             case 1:
-                printf("Tùy chọn A của chương trình con 2 được chọn!\n");
+                printf("Tùy chọn A của chương trình con 2 được chọn!\n"); 
                 break;
             case 2:
                 printf("Tùy chọn B của chương trình con 2 được chọn!\n");
