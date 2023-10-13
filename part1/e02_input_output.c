@@ -57,6 +57,9 @@ int main() {
     // while ((c = getchar()) != '\n' && c != EOF) {
     //     printf("ok\n");
     // }
+
+    while (getchar() != '\n' && getchar() != EOF) {};
+    
     printf("Input level: \n");
     int level;
     scanf("%d", &level);
